@@ -1,8 +1,8 @@
-#include<stdio.h>
-int main()
+#include <stdio.h>
+
+// Programming entry with main()
+int main(void)
 {
-	//string initialisation
-	char string[] = "Programming is like building a multilingual puzzle.";
-	puts(string); //Writes 'string' to stdout
+	puts("\"Programming is like building a multilingual puzzle");
 	return 0;
 }
