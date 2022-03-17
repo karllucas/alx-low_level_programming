@@ -1,6 +1,7 @@
 /**
  * print_numbers - prints numbers between 0 to 9.
- * Return: no return.
+ *
+ * Return: Always 0
  */
 void print_numbers(void)
 {
