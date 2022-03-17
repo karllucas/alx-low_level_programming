@@ -1,5 +1,3 @@
-#include "main.h"
-
 /**
  * Function prints numbers from 0 to 9
  *
@@ -12,8 +10,7 @@ void print_numbers(void)
 
         for (ch = 48; ch < 58; ch++)
         {
-                _putchar(ch);
-                return(0);
-        }
-        _putchar('\n');
+		_putchar(ch);
+	}
+	_putchar('\n');
 }
