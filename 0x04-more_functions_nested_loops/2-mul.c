@@ -1,12 +1,13 @@
 /**
- * int mul(int a, int b) - multiplies int a and int b
- * Return: Always 0
+ * mul - multiplies two integers
+ *
+ * @a: first input
+ * @b: second input
+ *
+ * Return: return results
 */
 
 int mul(int a, int b)
 {
-	int c;
-	c = a*b;
-
-	return (c);
+	return (a * b);
 }
