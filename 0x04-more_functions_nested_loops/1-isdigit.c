@@ -1,15 +1,20 @@
 #include "main.h"
 
-/* `isdigit` function checks for a digit from a given input
- * returns 1 if input is a digit
- * else returns 0
+/**
+ * _isdigit receives int c as input and checks for a digit (0 through 9)
+ * 
+ * Return: 1 if c is a digit
+ * else Return: 0
 */
 
-int c;
-c = 0;
-
-int main(int c)
+int _isdigit(int c)
 {
-	return(c <= 9);
-	c++;
+	if (c >= 48 && c <= 57)
+	{
+		return (1);
+	}
+	else
+	{
+		return (0);
+	}
 }
