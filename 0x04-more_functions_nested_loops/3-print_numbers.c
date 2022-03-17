@@ -1,16 +1,21 @@
+#include "main.h"
+
 /**
- * Function prints numbers from 0 to 9
+ * prints numbers between 0 and 9
  *
- * Return: Always 0.
+ * Return: Always 0
 */
 
 void print_numbers(void)
 {
         int ch;
 
-        for (ch = 48; ch < 58; ch++)
+        ch = 48;
+
+        while (ch >= 48 && ch <= 57)
         {
-		_putchar(ch);
-	}
-	_putchar('\n');
+                _putchar(ch);
+                ch++;
+        }
+        _putchar('\n');
 }
