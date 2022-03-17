@@ -3,14 +3,14 @@
  *
  * Return: Always 0
  */
+
 void print_numbers(void)
 {
-    int ch;
+	int ch;
 
-    if (ch >= 48 && ch <= 57; ch++)
-    {
-        _putchar(ch);
-        ch++;
-    }
-    _putchar('\n');
+	for (ch = 48; ch < 58; ch++)
+	{
+		_putchar(ch);
+	}
+	_putchar('\n');
 }
