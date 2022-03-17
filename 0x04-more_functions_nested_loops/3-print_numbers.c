@@ -1,18 +1,16 @@
 #include "main.h"
 
-/* A function that prints the numbers, from `0` to `9`
- * Should be followed by a new line
- * Return: Always 0
+/**
+ * void print_numbers(void) - prints the numbers, from 0 to 9
+ * followed by a new line
+ *
+ * Return: 0 Always
 */
 
-int main(void)
+void print_numbers(void)
 {
 	int c;
-	c = 0;
-	if ( c <= 9)
-	{
+	while (C >= 48 && c <= 57)
 		_putchar(c);
-		c++;
-	}
 	_putchar('\n');
 }
