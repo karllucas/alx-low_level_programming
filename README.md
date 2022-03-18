@@ -28,4 +28,8 @@ All of the following folders are projects done during the studies:
         </tr>
     </tbody>
     </tr>
+    <tr>
+        <td><a href="https://github.com/karllucas/alx-low_level_programming/tree/master/0x02-functions_nested_loops"><code>0x02-functions_nested_loops</code></a></td>
+        <td>It aims to learn about header files, functions, loops and nested loops in <strong>C language</strong></td>
+        </tr>
 </table>
