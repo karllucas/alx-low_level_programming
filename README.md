@@ -19,8 +19,8 @@ All of the following folders are projects done during the studies:
     <tr>
     <tbody>
         <tr>
-            <td><p><a href="http://example.com/" title="0x00-hello_world"><code>0x00-hello_world</code></a></p></td>
-            <td>It aims to learn about what is entry point, basics commands (puts, printf, putchar), compilation process with gcc in C language</td>
+            <td><a href="#"><code>0x00-hello_world</code></a></td>
+            <td>"It aims to learn about what is entry point, basics commands (puts, printf, putchar), compilation process with gcc in" <strong>C language</strong></td>
         </tr>
     </tbody>
     </tr>
