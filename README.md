@@ -19,7 +19,7 @@ All of the following folders are projects done during the studies:
     <tr>
     <tbody>
         <tr>
-            <td>[0x00-hello_world](http://example.com/ "0x00-hello_world")</td>
+            <td><p><a href="http://example.com/" title="0x00-hello_world">0x00-hello_world</a></p></td>
             <td>It aims to learn about what is entry point, basics commands (puts, printf, putchar), compilation process with gcc in C language</td>
         </tr>
     </tbody>
