@@ -10,8 +10,18 @@ Module of Low-level programming and algorithm, carried out during Full Stack Sof
 ### Projects
 All of the following folders are projects done during the studies:
 <table>
+    <thead>
+        <tr>
+            <td><h5>Project name</h5></td>
+            <td><h5>Description</h5></td>
+        </tr>
+    </thead>
     <tr>
-      <th><h5>Project name</h5></th>
-      <td><h5>Description</h5></td>
+    <tbody>
+        <tr>
+            <td>[0x00-hello_world](http://example.com/ "0x00-hello_world")</td>
+            <td>It aims to learn about what is entry point, basics commands (puts, printf, putchar), compilation process with gcc in C language</td>
+        </tr>
+    </tbody>
     </tr>
 </table>
