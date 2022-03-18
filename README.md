@@ -11,7 +11,7 @@ Module of Low-level programming and algorithm, carried out during Full Stack Sof
 All of the following folders are projects done during the studies:
 <table>
     <tr>
-      <td><h5>Project name</h5></td>
+      <th><h5>Project name</h5></th>
       <td><h5>Description</h5></td>
     </tr>
   <tr>
