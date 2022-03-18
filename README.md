@@ -19,11 +19,11 @@ All of the following folders are projects done during the studies:
     <tr>
     <tbody>
         <tr>
-            <td><a href="#"><code>0x00-hello_world</code></a></td>
+            <td><a href="https://github.com/karllucas/alx-low_level_programming/tree/master/0x00-hello_world"><code>0x00-hello_world</code></a></td>
             <td>"It aims to learn about what is entry point, basics commands (puts, printf, putchar), compilation process with gcc in" <strong>C language</strong></td>
         </tr>
         <tr>
-            <td><a href="#"><code>0x01-variables_if_else_while</code></a></td>
+            <td><a href="https://github.com/karllucas/alx-low_level_programming/tree/master/0x01-variables_if_else_while"><code>0x01-variables_if_else_while</code></a></td>
             <td>"It aims to learn about arithmetic operators, relational operators, boolean operators, comments, declaring variables and loops in " <strong>C language</strong></td>
         </tr>
     </tbody>
