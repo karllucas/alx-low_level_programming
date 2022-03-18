@@ -12,8 +12,8 @@ All of the following folders are projects done during the studies:
 <table>
     <thead>
         <tr>
-            <td><h5>Project name</h5></td>
-            <td><h5>Description</h5></td>
+            <th>Project name</th>
+            <th>Description</th>
         </tr>
     </thead>
     <tr>
