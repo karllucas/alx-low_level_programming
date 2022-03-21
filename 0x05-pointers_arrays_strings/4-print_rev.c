@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_rev - prints a string, in reverse, followed by a new line.
- * @s: input integer
+ * 4-print_rev.c - prints a string, in reverse, followed by a new line.
+ * @s: input integer.
  */
 void print_rev(char *s)
 {
