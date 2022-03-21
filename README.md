@@ -59,4 +59,3 @@ All of the following folders are projects done during the studies:
 
 </article>
           </div>
->>>>>>> 91413daba5a2c540e0ec497a2f9b9c0bebeef315
