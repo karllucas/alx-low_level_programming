@@ -1,1 +1,1 @@
-# A readme ofcompiled functions and nested loops in C programming
+# Pointers, arrays, and strings #readme
