@@ -26,3 +26,16 @@ char *_strstr(char *haystack, char *needle);
 
 #endif
 
+0-isupper.o/    0           0     0     644     122       `
+#include "main.h"
+
+/**
+ * isupper - returns uppercase.
+ * c: an integer.
+ * Return: always 0.
+ */
+int _isupper(int c)
+{
+}
+0-memset.o/     0           0     0     644     48        `
+char *_memset(char *s, char b, unsigned int n);
