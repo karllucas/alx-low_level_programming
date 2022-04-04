@@ -10,8 +10,8 @@
  */
 char *create_array(unsigned int size, char c)
 {
-        char *P;
-        unsigned int i = 0;
+        char *p;
+	unsigned int i = 0;
 
         if (size == 0)
                 return(NULL);
@@ -27,7 +27,7 @@ char *create_array(unsigned int size, char c)
                 i++;
         }
 
-	*(p + i) = '\0';
+        *(p + i) = '\0';
 
-	return(p);
+        return(p);
 }
